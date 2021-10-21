@@ -38,6 +38,11 @@ section
       span.h4 1. Presentación
 
     p Apreciado aprendiz bienvenido al programa de formación complementaria “Desarrollo de habilidades digitales para la comunicación y colaboración en línea”, una experiencia de aprendizaje que surge ante la necesidad de contribuir a la identidad digital y a través de las Tecnologías de la Información y la Comunicación.  
+    p Con la innovación tecnológica se hace necesario la incorporación de una serie de competencias que permiten el desarrollo de habilidades para dar respuesta al trabajo de forma colaborativa y activa en un entorno digital.
+    p Este desarrollo posibilita ser consciente de la necesidad de tener presencia en la red de Internet como una representación personal, una identidad digital que se va construyendo a partir de la propia actividad y de los demás.
+    p Esta identidad permite generar habilidades tecnológicas en el manejo de las aplicaciones para la comunicación electrónica y colaborativa, que integre los sitios de redes sociales con visión ética sobre el uso de la información que construyen una estructura en la que vive un "yo virtual".
+    p Esta generación del "yo virtual" debe permitir la utilización de las TIC, y desde allí, una apropiación de conceptos y herramientas de uso informático en la red de Internet que ayudan a ser parte de la transformación cultural de un país.
+    p Bienvenido a este programa de formación, que le permitirá la identificación de herramientas digitales de comunicación síncrona y asíncrona para generar una identidad digital. 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
