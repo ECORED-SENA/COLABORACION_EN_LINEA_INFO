@@ -17,7 +17,7 @@ section
                 p.banner-principal__datos__item__texto Desarrollo de habilidades digitales para la comunicación y colaboración en línea
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 23310012
+                p.banner-principal__datos__item__texto 23310015
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 48 Horas
